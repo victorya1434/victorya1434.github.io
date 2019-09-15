@@ -9,8 +9,8 @@ Bài viết đầu tiên
 + dịch các bài viết hay   
 + nắm ý tưởng bài nào đó (bài báo, blog, ...), viết về điều gì cần rút ra, phát triển gì không, đặt câu hỏi và trả lời   
 
-test thử 1 vài dòng toán: 
-$$a^2 + b^2 = c^2$$
+test thử 1 vài dòng toán:   
+$$ a^2 + b^2 = c^2 $$
 
 test thử code:
 ```python
