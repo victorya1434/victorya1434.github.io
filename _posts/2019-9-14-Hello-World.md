@@ -10,8 +10,8 @@ Bài viết đầu tiên
 + nắm ý tưởng bài nào đó (bài báo, blog, ...), viết về điều gì cần rút ra, phát triển gì không, đặt câu hỏi và trả lời   
 
 test thử 1 vài dòng toán: 
-$$ a^2 + b^2 = c^2 $$
-$$ \frac{-b\pm\sqrt{b^2-4ac}}{2a} $$
+$$ a^2 + b^2 = c^2 $$    
+$$ \frac{-b\pm\sqrt{b^2-4ac}}{2a} $$    
 
 
 test thử code:
